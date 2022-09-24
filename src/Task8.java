@@ -17,6 +17,6 @@ public class Task8 {
         System.out.println("Новая зарплата Маши " + mashaNew);
         System.out.println("Разница годовой зарплаты Маши " + (amtMashaNew - amtMasha));
         System.out.println("Разница годовой зарплаты Дениса " + (amtDenisNew - amtDenis));
-        System.out.println("Разница годовой зарплаты Кристины " + (amtKristinaNew - amtkristina));
+        System.out.println("Разница годовой  зарплаты Кристины " + (amtKristinaNew - amtkristina));
     }
 }
